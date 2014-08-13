@@ -8,10 +8,10 @@ import tinkerer.paths
 # **************************************************************
 
 # Change this to the name of your blog
-project = 'tr.arbr.dk'
+project = 'Troels Brødsgaard'
 
 # Change this to the tagline of your blog
-tagline = 'Software For The Win'
+tagline = 'Software for the Win'
 
 # Change this to the description of your blog
 description = 'IT, programmering og sjov'
@@ -36,12 +36,12 @@ disqus_shortname = None
 html_favicon = 'tinkerer.ico'
 
 # Pick another Tinkerer theme or use your own
-html_theme = "flat"
+html_theme = 'flat'
 
 # Theme-specific options, see docs
-html_theme_options = { 
-        'accent_color': '#bf2222',
-    }
+html_theme_options = {
+    'accent_color': '#bf2222',
+}
 
 # Link to RSS service like FeedBurner if any, otherwise feed is
 # linked directly
