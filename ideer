@@ -46,4 +46,6 @@ Ting at gøre ved Tinkerer:
     forbedre dokumentation
     foreslå at samle posts i en /posts/ mappe (ligesom /pages/ og /drafts/)
     spørge hvorfor bruges separate direktiver i stedet for et direktiv til blogpost med options der specificerer forfatter, kategorier osv
-   
+    hvorfor er pygments temaet tilsyneladende hard-coded?
+    tinker --clean ?
+
